@@ -1,2 +1,2 @@
-# fortifcy-sca
+# Fortifcy-SCA
 Fortify Source Code Analyzer
